@@ -57,4 +57,5 @@ Hosts | `` |  `` |  `` | `` | ``
 `RH` | x | x | x | `192.168.56.13/24` | x
 `admin` | x | x | x | x | `192.168.56.11/24`
 
-![Alt text](img/Capture.PNG"")
+![Alt text](https://github.com/SilouanLC/monrepo/img/Capture.png
+"")
