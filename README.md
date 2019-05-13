@@ -49,7 +49,7 @@ Shéma de la Topologie:*
 
  ```
 ### Tableau résumé
-
+Hosts | `` |  `` |  `` | `` | ``
 --- | --- | --- | --- | --- | ---
 `server` | `192.168.56.20/24` | x | x | x | x
 `imprimante` | x | `192.168.56.14/24` | x | x | x
