@@ -1,5 +1,6 @@
 
-Shéma de la Topologie:
+Shéma de la Topologie:*
+```bash
 
                                                                  192.168.56.10
                                                                 +------------------+
@@ -46,4 +47,4 @@ Shéma de la Topologie:
                                                             192.168.56.14    192.168.56.13
 
 
- 
+ ```
